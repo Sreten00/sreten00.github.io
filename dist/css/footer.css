@@ -1,0 +1,22 @@
+#footer
+{
+	color: #737345;
+	background-color: #252526;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-image: url("stripes.jpg");
+}
+
+a
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size : 18px;
+	color: #383838;
+}
+
+.container2
+{
+	padding-left: 1%;
+	padding-right: 1%;
+}
